@@ -9,3 +9,5 @@ def once_presented_chars_num(string: str) -> int:
         1 for value in Counter(string).values() if value == 1)
 
     return once_presented_char_num
+
+    
