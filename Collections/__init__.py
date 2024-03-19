@@ -1,0 +1,1 @@
+from Collections.collection_task import once_presented_chars_num
